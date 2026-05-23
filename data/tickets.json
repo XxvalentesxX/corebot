@@ -1,0 +1,17 @@
+{
+  "config": {
+    "enabled": true,
+    "categoryId": "1310315930248548483",
+    "logChannelId": "1309405814255124551",
+    "buttons": {
+      "soporte": true,
+      "recompensas": true,
+      "apply": true,
+      "ally": true,
+      "report": true
+    }
+  },
+  "tickets": {},
+  "stats": {},
+  "counter": 1
+}

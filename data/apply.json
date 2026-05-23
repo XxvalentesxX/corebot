@@ -1,0 +1,35 @@
+{
+  "open": true,
+  "questions": [
+    {
+      "id": "5abb8c24",
+      "text": "Te gusta DELWEST?",
+      "timeMs": 5000
+    },
+    {
+      "id": "17a3e256",
+      "text": "Js o PY?",
+      "timeMs": 10000
+    }
+  ],
+  "applicants": {
+    "1325614120828928092": {
+      "status": "rejected",
+      "channelId": "1503562554222579742",
+      "appliedAt": 1778547648615,
+      "startMessageId": "1503562556080656455",
+      "started": true,
+      "answers": [
+        {
+          "question": "Te gusta DELWEST?",
+          "answer": "si"
+        },
+        {
+          "question": "Js o PY?",
+          "answer": "*Sin respuesta*"
+        }
+      ],
+      "formMessageId": "1503562631527530547"
+    }
+  }
+}

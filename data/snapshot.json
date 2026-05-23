@@ -1,0 +1,3806 @@
+{
+  "guildId": "1309266085589155930",
+  "takenAt": 1778715228029,
+  "channels": [
+    {
+      "id": "1500389191299629088",
+      "name": "🗑︰tests",
+      "type": 0,
+      "parentId": "1309291887710044240",
+      "position": 1,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "0",
+          "deny": "1024"
+        }
+      ]
+    },
+    {
+      "id": "1309338116384882769",
+      "name": "👾︰bots",
+      "type": 0,
+      "parentId": "1309291300360818730",
+      "position": 0,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309307680590139464",
+          "type": 0,
+          "allow": "2147552320",
+          "deny": "0"
+        },
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "3073",
+          "deny": "2098966421828432"
+        },
+        {
+          "id": "1309308357215260792",
+          "type": 0,
+          "allow": "0",
+          "deny": "1024"
+        },
+        {
+          "id": "1309303383814836245",
+          "type": 0,
+          "allow": "8192",
+          "deny": "0"
+        },
+        {
+          "id": "1309308376424910941",
+          "type": 0,
+          "allow": "2147871808",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "id": "1311504148860243988",
+      "name": "🏷︰change﹒nickname",
+      "type": 0,
+      "parentId": "1311503678443618366",
+      "position": 0,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309303527817875477",
+          "type": 0,
+          "allow": "1115136",
+          "deny": "0"
+        },
+        {
+          "id": "1309304920314482718",
+          "type": 0,
+          "allow": "1115136",
+          "deny": "0"
+        },
+        {
+          "id": "1309303181867749406",
+          "type": 0,
+          "allow": "1115136",
+          "deny": "0"
+        },
+        {
+          "id": "1309303092952563725",
+          "type": 0,
+          "allow": "1115136",
+          "deny": "0"
+        },
+        {
+          "id": "1311502249821732945",
+          "type": 0,
+          "allow": "1051648",
+          "deny": "65536"
+        },
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "0",
+          "deny": "1049600"
+        }
+      ]
+    },
+    {
+      "id": "1312649920146051092",
+      "name": "💰︰logs﹒economy",
+      "type": 0,
+      "parentId": "1312634250742468609",
+      "position": 7,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309304920314482718",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1309303383814836245",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1309303181867749406",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1309303092952563725",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1309303527817875477",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "0",
+          "deny": "1049600"
+        }
+      ]
+    },
+    {
+      "id": "1309406002629709854",
+      "name": "📌︰extra﹒logs",
+      "type": 0,
+      "parentId": "1309291336297349282",
+      "position": 1,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309303269268521002",
+          "type": 0,
+          "allow": "117824",
+          "deny": "0"
+        },
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "0",
+          "deny": "1024"
+        }
+      ]
+    },
+    {
+      "id": "1309289831376883853",
+      "name": "🐢𐌂 Social ৲ˎˊ˗",
+      "type": 4,
+      "parentId": null,
+      "position": 13,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309307680590139464",
+          "type": 0,
+          "allow": "70368744295488",
+          "deny": "0"
+        },
+        {
+          "id": "1309303383814836245",
+          "type": 0,
+          "allow": "8192",
+          "deny": "0"
+        },
+        {
+          "id": "1309304756031848570",
+          "type": 0,
+          "allow": "137439215616",
+          "deny": "0"
+        },
+        {
+          "id": "1309308357215260792",
+          "type": 0,
+          "allow": "0",
+          "deny": "1024"
+        },
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "1",
+          "deny": "2098966421831504"
+        }
+      ]
+    },
+    {
+      "id": "1309403282833408073",
+      "name": "🪛︰staff﹒guide",
+      "type": 0,
+      "parentId": "1309291336297349282",
+      "position": 2,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "0",
+          "deny": "1024"
+        },
+        {
+          "id": "1309303269268521002",
+          "type": 0,
+          "allow": "117824",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "id": "1310329991346524266",
+      "name": "🎄︰servers﹒partners",
+      "type": 0,
+      "parentId": "1310325343856361603",
+      "position": 3,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309307680590139464",
+          "type": 0,
+          "allow": "66560",
+          "deny": "2048"
+        },
+        {
+          "id": "1500384083421823007",
+          "type": 0,
+          "allow": "0",
+          "deny": "1024"
+        },
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "1",
+          "deny": "2098966421831504"
+        }
+      ]
+    },
+    {
+      "id": "1309291606175912118",
+      "name": "🍾𐌂 Events ৲ˎˊ˗",
+      "type": 4,
+      "parentId": null,
+      "position": 8,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309307680590139464",
+          "type": 0,
+          "allow": "66625",
+          "deny": "0"
+        },
+        {
+          "id": "1309303527817875477",
+          "type": 0,
+          "allow": "2048",
+          "deny": "0"
+        },
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "1",
+          "deny": "2098966421831504"
+        }
+      ]
+    },
+    {
+      "id": "1309291887710044240",
+      "name": "🧉𐌂 Owners ৲ˎˊ˗",
+      "type": 4,
+      "parentId": null,
+      "position": 1,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "0",
+          "deny": "1024"
+        }
+      ]
+    },
+    {
+      "id": "1312634250742468609",
+      "name": "🗞𐌂 Logs Server ৲ˎˊ˗",
+      "type": 4,
+      "parentId": null,
+      "position": 4,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309304920314482718",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1309303383814836245",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1309303181867749406",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1309303092952563725",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1309303527817875477",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "0",
+          "deny": "1049600"
+        }
+      ]
+    },
+    {
+      "id": "1311083973237280798",
+      "name": "💼︰projects",
+      "type": 15,
+      "parentId": "1309292270863913012",
+      "position": 3,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309307680590139464",
+          "type": 0,
+          "allow": "68672",
+          "deny": "0"
+        },
+        {
+          "id": "1309303383814836245",
+          "type": 0,
+          "allow": "8192",
+          "deny": "0"
+        },
+        {
+          "id": "1309304756031848570",
+          "type": 0,
+          "allow": "137439215616",
+          "deny": "0"
+        },
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "274877958209",
+          "deny": "2098691543873296"
+        }
+      ]
+    },
+    {
+      "id": "1309340206184402954",
+      "name": "🔶︰support",
+      "type": 15,
+      "parentId": "1309292701996417085",
+      "position": 0,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 600,
+      "permissionOverwrites": [
+        {
+          "id": "1309307680590139464",
+          "type": 0,
+          "allow": "274878024768",
+          "deny": "0"
+        },
+        {
+          "id": "1309304756031848570",
+          "type": 0,
+          "allow": "137439215616",
+          "deny": "0"
+        },
+        {
+          "id": "1309303383814836245",
+          "type": 0,
+          "allow": "8192",
+          "deny": "0"
+        },
+        {
+          "id": "235148962103951360",
+          "type": 1,
+          "allow": "9216",
+          "deny": "0"
+        },
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "1",
+          "deny": "2098966421831504"
+        }
+      ]
+    },
+    {
+      "id": "1312649028495741009",
+      "name": "♣︰logs﹒ban-unban",
+      "type": 0,
+      "parentId": "1312634250742468609",
+      "position": 1,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309304920314482718",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1309303383814836245",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1309303181867749406",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1309303092952563725",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1309303527817875477",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "0",
+          "deny": "1049600"
+        }
+      ]
+    },
+    {
+      "id": "1309348654091341825",
+      "name": "🔢︰count",
+      "type": 0,
+      "parentId": "1309338407700529182",
+      "position": 1,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309307680590139464",
+          "type": 0,
+          "allow": "2147550272",
+          "deny": "2048"
+        },
+        {
+          "id": "1309304756031848570",
+          "type": 0,
+          "allow": "137439215616",
+          "deny": "0"
+        },
+        {
+          "id": "1309303181867749406",
+          "type": 0,
+          "allow": "281474976710656",
+          "deny": "0"
+        },
+        {
+          "id": "1309303324385738823",
+          "type": 0,
+          "allow": "8192",
+          "deny": "0"
+        },
+        {
+          "id": "1309308357215260792",
+          "type": 0,
+          "allow": "139586817089",
+          "deny": "0"
+        },
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "1",
+          "deny": "2098966421831504"
+        }
+      ]
+    },
+    {
+      "id": "1500390284775657554",
+      "name": "📁︰archived",
+      "type": 0,
+      "parentId": "1309291887710044240",
+      "position": 0,
+      "topic": "Archivados.",
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "0",
+          "deny": "1024"
+        }
+      ]
+    },
+    {
+      "id": "1309340855773171722",
+      "name": "🔷︰share﹒code",
+      "type": 15,
+      "parentId": "1309292270863913012",
+      "position": 2,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309307680590139464",
+          "type": 0,
+          "allow": "274878024768",
+          "deny": "0"
+        },
+        {
+          "id": "1309303383814836245",
+          "type": 0,
+          "allow": "8192",
+          "deny": "0"
+        },
+        {
+          "id": "1309304756031848570",
+          "type": 0,
+          "allow": "137439215616",
+          "deny": "0"
+        },
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "1",
+          "deny": "2098966421831504"
+        }
+      ]
+    },
+    {
+      "id": "1309405657044226079",
+      "name": "🛡︰auto-mod﹒logs",
+      "type": 0,
+      "parentId": "1309291336297349282",
+      "position": 0,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "0",
+          "deny": "1024"
+        },
+        {
+          "id": "1309303269268521002",
+          "type": 0,
+          "allow": "117824",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "id": "1312649683834900493",
+      "name": "💠︰logs﹒roles",
+      "type": 0,
+      "parentId": "1312634250742468609",
+      "position": 6,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309304920314482718",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1309303383814836245",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1309303181867749406",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1309303092952563725",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1309303527817875477",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "0",
+          "deny": "1049600"
+        }
+      ]
+    },
+    {
+      "id": "1309349402707628072",
+      "name": "🌊︰bumps",
+      "type": 0,
+      "parentId": "1309338407700529182",
+      "position": 4,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309307680590139464",
+          "type": 0,
+          "allow": "2147550272",
+          "deny": "2048"
+        },
+        {
+          "id": "1309304756031848570",
+          "type": 0,
+          "allow": "137439215616",
+          "deny": "0"
+        },
+        {
+          "id": "1309303181867749406",
+          "type": 0,
+          "allow": "281474976710656",
+          "deny": "0"
+        },
+        {
+          "id": "1309303324385738823",
+          "type": 0,
+          "allow": "8192",
+          "deny": "0"
+        },
+        {
+          "id": "1309308357215260792",
+          "type": 0,
+          "allow": "139586817089",
+          "deny": "0"
+        },
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "1",
+          "deny": "2098966421831504"
+        }
+      ]
+    },
+    {
+      "id": "1309291837973991525",
+      "name": "🧩𐌂 Admins ৲ˎˊ˗",
+      "type": 4,
+      "parentId": null,
+      "position": 2,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309304920314482718",
+          "type": 0,
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1309303181867749406",
+          "type": 0,
+          "allow": "1126039493725249",
+          "deny": "0"
+        },
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "0",
+          "deny": "1024"
+        }
+      ]
+    },
+    {
+      "id": "1310315930248548483",
+      "name": "🎫𐌂 All Tickets ৲ˎˊ˗",
+      "type": 4,
+      "parentId": null,
+      "position": 5,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309307680590139464",
+          "type": 0,
+          "allow": "116800",
+          "deny": "0"
+        },
+        {
+          "id": "1309303269268521002",
+          "type": 0,
+          "allow": "137439341633",
+          "deny": "0"
+        },
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "1",
+          "deny": "2098966421831504"
+        }
+      ]
+    },
+    {
+      "id": "1309338407700529182",
+      "name": "🎮𐌂 Entretenimiento ৲ˎˊ˗",
+      "type": 4,
+      "parentId": null,
+      "position": 15,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309307680590139464",
+          "type": 0,
+          "allow": "2147552320",
+          "deny": "0"
+        },
+        {
+          "id": "1309308357215260792",
+          "type": 0,
+          "allow": "139586817089",
+          "deny": "0"
+        },
+        {
+          "id": "1309303181867749406",
+          "type": 0,
+          "allow": "281474976710656",
+          "deny": "0"
+        },
+        {
+          "id": "1309303324385738823",
+          "type": 0,
+          "allow": "8192",
+          "deny": "0"
+        },
+        {
+          "id": "1309304756031848570",
+          "type": 0,
+          "allow": "137439215616",
+          "deny": "0"
+        },
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "1",
+          "deny": "2098966421831504"
+        }
+      ]
+    },
+    {
+      "id": "1309404115100635166",
+      "name": "🔭︰trial﹒mod",
+      "type": 0,
+      "parentId": "1309291336297349282",
+      "position": 5,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "0",
+          "deny": "1024"
+        },
+        {
+          "id": "1309303383814836245",
+          "type": 0,
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1309303269268521002",
+          "type": 0,
+          "allow": "116800",
+          "deny": "1024"
+        }
+      ]
+    },
+    {
+      "id": "1309991609554964500",
+      "name": "discord.gg/corecm",
+      "type": 2,
+      "parentId": null,
+      "position": 0,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "1024",
+          "deny": "1050624"
+        }
+      ]
+    },
+    {
+      "id": "1503920854453452872",
+      "name": "🌱︰owners",
+      "type": 0,
+      "parentId": "1309291887710044240",
+      "position": 4,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309304920314482718",
+          "type": 0,
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "0",
+          "deny": "1024"
+        }
+      ]
+    },
+    {
+      "id": "1310077784592220201",
+      "name": "🔊︰Voice﹒3",
+      "type": 2,
+      "parentId": "1310077255191363746",
+      "position": 2,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309307680590139464",
+          "type": 0,
+          "allow": "551940116033",
+          "deny": "0"
+        },
+        {
+          "id": "1309304756031848570",
+          "type": 0,
+          "allow": "39719857815552",
+          "deny": "0"
+        },
+        {
+          "id": "1309303181867749406",
+          "type": 0,
+          "allow": "281474976710912",
+          "deny": "0"
+        },
+        {
+          "id": "1309303324385738823",
+          "type": 0,
+          "allow": "8192",
+          "deny": "0"
+        },
+        {
+          "id": "1309303527817875477",
+          "type": 0,
+          "allow": "29360128",
+          "deny": "0"
+        },
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "1",
+          "deny": "2098966421831504"
+        }
+      ]
+    },
+    {
+      "id": "1309291517931946044",
+      "name": "📌𐌂 Main ৲ˎˊ˗",
+      "type": 4,
+      "parentId": null,
+      "position": 7,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309307680590139464",
+          "type": 0,
+          "allow": "66561",
+          "deny": "2098966421764944"
+        },
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "1",
+          "deny": "2098966421831504"
+        }
+      ]
+    },
+    {
+      "id": "1309266352913256579",
+      "name": "📚︰rules",
+      "type": 0,
+      "parentId": "1309291517931946044",
+      "position": 1,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309307680590139464",
+          "type": 0,
+          "allow": "66561",
+          "deny": "2098966421764944"
+        },
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "1025",
+          "deny": "2098966421830480"
+        }
+      ]
+    },
+    {
+      "id": "1324972119410479154",
+      "name": "🌐︰request﹒codes",
+      "type": 15,
+      "parentId": "1309292270863913012",
+      "position": 0,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309307680590139464",
+          "type": 0,
+          "allow": "68672",
+          "deny": "0"
+        },
+        {
+          "id": "1309304756031848570",
+          "type": 0,
+          "allow": "137439215616",
+          "deny": "0"
+        },
+        {
+          "id": "1309303383814836245",
+          "type": 0,
+          "allow": "8192",
+          "deny": "0"
+        },
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "1",
+          "deny": "2098966421831504"
+        }
+      ]
+    },
+    {
+      "id": "1501652419870855238",
+      "name": "🎭︰automod",
+      "type": 0,
+      "parentId": "1501651563360424057",
+      "position": 1,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "0",
+          "deny": "1024"
+        }
+      ]
+    },
+    {
+      "id": "1503551522447953960",
+      "name": "📃︰appeal﹒admins",
+      "type": 0,
+      "parentId": "1309291887710044240",
+      "position": 3,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "0",
+          "deny": "1024"
+        }
+      ]
+    },
+    {
+      "id": "1309333846059388928",
+      "name": "🍹︰boosts",
+      "type": 0,
+      "parentId": "1309291517931946044",
+      "position": 4,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309307680590139464",
+          "type": 0,
+          "allow": "66561",
+          "deny": "2098966421764944"
+        },
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "1",
+          "deny": "2098966421831504"
+        }
+      ]
+    },
+    {
+      "id": "1312138341327835257",
+      "name": "🏮𐌂 Social Media ৲ˎˊ˗",
+      "type": 4,
+      "parentId": null,
+      "position": 9,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309307680590139464",
+          "type": 0,
+          "allow": "66560",
+          "deny": "0"
+        },
+        {
+          "id": "1309305616736718848",
+          "type": 0,
+          "allow": "2048",
+          "deny": "0"
+        },
+        {
+          "id": "1309309703590903878",
+          "type": 0,
+          "allow": "0",
+          "deny": "0"
+        },
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "0",
+          "deny": "2100065933459281"
+        }
+      ]
+    },
+    {
+      "id": "1312649267952881784",
+      "name": "🧩︰logs﹒discord",
+      "type": 0,
+      "parentId": "1312634250742468609",
+      "position": 3,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309304920314482718",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1309303383814836245",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1309303181867749406",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1309303092952563725",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1309303527817875477",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "0",
+          "deny": "1049600"
+        }
+      ]
+    },
+    {
+      "id": "1312649593930125342",
+      "name": "⃣︰logs﹒channels",
+      "type": 0,
+      "parentId": "1312634250742468609",
+      "position": 5,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309304920314482718",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1309303383814836245",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1309303181867749406",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1309303092952563725",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1309303527817875477",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "0",
+          "deny": "1049600"
+        }
+      ]
+    },
+    {
+      "id": "1309406262701719572",
+      "name": "😔︰goodbye",
+      "type": 0,
+      "parentId": "1309291517931946044",
+      "position": 7,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309307680590139464",
+          "type": 0,
+          "allow": "66561",
+          "deny": "2098966421764944"
+        },
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "3073",
+          "deny": "2098966421828432"
+        }
+      ]
+    },
+    {
+      "id": "1310332464606216315",
+      "name": "💻︰plantilla",
+      "type": 0,
+      "parentId": "1310325343856361603",
+      "position": 1,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309307680590139464",
+          "type": 0,
+          "allow": "66560",
+          "deny": "2048"
+        },
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "1",
+          "deny": "2098966421831504"
+        }
+      ]
+    },
+    {
+      "id": "1312649973418168361",
+      "name": "🌄︰logs﹒server",
+      "type": 0,
+      "parentId": "1312634250742468609",
+      "position": 8,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309304920314482718",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1309303383814836245",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1309303181867749406",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1309303092952563725",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1309303527817875477",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "0",
+          "deny": "1049600"
+        }
+      ]
+    },
+    {
+      "id": "1309292270863913012",
+      "name": "💻𐌂 Developers ৲ˎˊ˗",
+      "type": 4,
+      "parentId": null,
+      "position": 11,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309307680590139464",
+          "type": 0,
+          "allow": "68672",
+          "deny": "0"
+        },
+        {
+          "id": "1309304756031848570",
+          "type": 0,
+          "allow": "137439215616",
+          "deny": "0"
+        },
+        {
+          "id": "1309303383814836245",
+          "type": 0,
+          "allow": "8192",
+          "deny": "0"
+        },
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "1",
+          "deny": "2098966421831504"
+        }
+      ]
+    },
+    {
+      "id": "1312649419518119967",
+      "name": "💭︰logs﹒messages",
+      "type": 0,
+      "parentId": "1312634250742468609",
+      "position": 4,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309304920314482718",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1309303383814836245",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1309303181867749406",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1309303092952563725",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1309303527817875477",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "0",
+          "deny": "1049600"
+        }
+      ]
+    },
+    {
+      "id": "1309332203263492136",
+      "name": "📢︰announcements",
+      "type": 0,
+      "parentId": "1309291517931946044",
+      "position": 2,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309307680590139464",
+          "type": 0,
+          "allow": "66561",
+          "deny": "2098966421764944"
+        },
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "1",
+          "deny": "2098966421831504"
+        }
+      ]
+    },
+    {
+      "id": "1502543019868426292",
+      "name": "🎫︰tickets",
+      "type": 0,
+      "parentId": "1309292701996417085",
+      "position": 1,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309307680590139464",
+          "type": 0,
+          "allow": "3073",
+          "deny": "0"
+        },
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "1",
+          "deny": "2098966421831504"
+        }
+      ]
+    },
+    {
+      "id": "1310328011882631250",
+      "name": "🔇︰no﹒ping",
+      "type": 0,
+      "parentId": "1310325343856361603",
+      "position": 0,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309307680590139464",
+          "type": 0,
+          "allow": "65536",
+          "deny": "3072"
+        },
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "1",
+          "deny": "2098966421831504"
+        }
+      ]
+    },
+    {
+      "id": "1312880204581961758",
+      "name": "🔊︰logs﹒voice",
+      "type": 0,
+      "parentId": "1312634250742468609",
+      "position": 10,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309304920314482718",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1309303383814836245",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1309303181867749406",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1309303092952563725",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1309303527817875477",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "0",
+          "deny": "1049600"
+        }
+      ]
+    },
+    {
+      "id": "1309407143916474369",
+      "name": "🔋︰levels",
+      "type": 0,
+      "parentId": "1309338407700529182",
+      "position": 0,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309307680590139464",
+          "type": 0,
+          "allow": "2147550272",
+          "deny": "2048"
+        },
+        {
+          "id": "1309304756031848570",
+          "type": 0,
+          "allow": "137439215616",
+          "deny": "0"
+        },
+        {
+          "id": "1309303181867749406",
+          "type": 0,
+          "allow": "281474976710656",
+          "deny": "0"
+        },
+        {
+          "id": "1309303324385738823",
+          "type": 0,
+          "allow": "8192",
+          "deny": "0"
+        },
+        {
+          "id": "1309308357215260792",
+          "type": 0,
+          "allow": "139586817089",
+          "deny": "0"
+        },
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "1",
+          "deny": "2098966421831504"
+        }
+      ]
+    },
+    {
+      "id": "1309266352913256582",
+      "name": "🚬︰fumadores",
+      "type": 0,
+      "parentId": "1309291887710044240",
+      "position": 2,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "0",
+          "deny": "1024"
+        }
+      ]
+    },
+    {
+      "id": "1309404631004090388",
+      "name": "🔧︰trial﹒support",
+      "type": 0,
+      "parentId": "1309291336297349282",
+      "position": 7,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309303269268521002",
+          "type": 0,
+          "allow": "117824",
+          "deny": "0"
+        },
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "0",
+          "deny": "1024"
+        }
+      ]
+    },
+    {
+      "id": "1309404481221300326",
+      "name": "🔩︰support",
+      "type": 0,
+      "parentId": "1309291336297349282",
+      "position": 6,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309303269268521002",
+          "type": 0,
+          "allow": "117824",
+          "deny": "0"
+        },
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "0",
+          "deny": "1024"
+        }
+      ]
+    },
+    {
+      "id": "1309406172167540737",
+      "name": "👋︰welcome",
+      "type": 0,
+      "parentId": "1309291517931946044",
+      "position": 6,
+      "topic": "🇪🇦 ꒱ ¡Saluda a los nuevos usuarios en el servidor!\nSe agradece la cantidad de usuarios que tenemos. <a:gato_amor:1242489621900693594>\n\n:flag_gb: ꒱ Say hello to new users on the server!\nWe appreciate the number of users we have. <a:gato_amor:1242489621900693594>",
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309307680590139464",
+          "type": 0,
+          "allow": "66561",
+          "deny": "2098966421764944"
+        },
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "3073",
+          "deny": "2098966421828432"
+        }
+      ]
+    },
+    {
+      "id": "1503154139763441674",
+      "name": "💍︰trial﹒admin",
+      "type": 0,
+      "parentId": "1309291837973991525",
+      "position": 4,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309304920314482718",
+          "type": 0,
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1309303181867749406",
+          "type": 0,
+          "allow": "1126039493790785",
+          "deny": "0"
+        },
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "0",
+          "deny": "1024"
+        }
+      ]
+    },
+    {
+      "id": "1502546793597239336",
+      "name": "📋︰applys",
+      "type": 0,
+      "parentId": "1309291837973991525",
+      "position": 2,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309304920314482718",
+          "type": 0,
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1309303181867749406",
+          "type": 0,
+          "allow": "1126039493725249",
+          "deny": "0"
+        },
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "0",
+          "deny": "1024"
+        }
+      ]
+    },
+    {
+      "id": "1310077487430111336",
+      "name": "🔈︰Voice﹒Music﹒1",
+      "type": 2,
+      "parentId": "1310077255191363746",
+      "position": 0,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309307680590139464",
+          "type": 0,
+          "allow": "551940116033",
+          "deny": "0"
+        },
+        {
+          "id": "1309304756031848570",
+          "type": 0,
+          "allow": "39719857815552",
+          "deny": "0"
+        },
+        {
+          "id": "1309303181867749406",
+          "type": 0,
+          "allow": "281474976710912",
+          "deny": "0"
+        },
+        {
+          "id": "1309303324385738823",
+          "type": 0,
+          "allow": "8192",
+          "deny": "0"
+        },
+        {
+          "id": "1309303527817875477",
+          "type": 0,
+          "allow": "29360128",
+          "deny": "0"
+        },
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "1",
+          "deny": "2098966421831504"
+        }
+      ]
+    },
+    {
+      "id": "1310325343856361603",
+      "name": "🎄𐌂 Partners ৲ˎˊ˗",
+      "type": 4,
+      "parentId": null,
+      "position": 12,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309307680590139464",
+          "type": 0,
+          "allow": "66560",
+          "deny": "2048"
+        },
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "1",
+          "deny": "2098966421831504"
+        }
+      ]
+    },
+    {
+      "id": "1309402835615486003",
+      "name": "👑︰admin",
+      "type": 0,
+      "parentId": "1309291837973991525",
+      "position": 3,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309304920314482718",
+          "type": 0,
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1309303181867749406",
+          "type": 0,
+          "allow": "1126039493725249",
+          "deny": "0"
+        },
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "0",
+          "deny": "1024"
+        }
+      ]
+    },
+    {
+      "id": "1309334042134581319",
+      "name": "🧩︰event",
+      "type": 0,
+      "parentId": "1309291606175912118",
+      "position": 0,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309307680590139464",
+          "type": 0,
+          "allow": "66625",
+          "deny": "0"
+        },
+        {
+          "id": "1309303527817875477",
+          "type": 0,
+          "allow": "10240",
+          "deny": "0"
+        },
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "1",
+          "deny": "2098966421831504"
+        }
+      ]
+    },
+    {
+      "id": "1312649148692041800",
+      "name": "⭕︰logs﹒mute-unmute",
+      "type": 0,
+      "parentId": "1312634250742468609",
+      "position": 2,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309304920314482718",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1309303383814836245",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1309303181867749406",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1309303092952563725",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1309303527817875477",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "0",
+          "deny": "1049600"
+        }
+      ]
+    },
+    {
+      "id": "1311503678443618366",
+      "name": "💾𐌂 Server Extras ৲ˎˊ˗",
+      "type": 4,
+      "parentId": null,
+      "position": 6,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309303527817875477",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1309304920314482718",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1309303181867749406",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1309303092952563725",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1311502249821732945",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "0",
+          "deny": "1049600"
+        }
+      ]
+    },
+    {
+      "id": "1312648881942564956",
+      "name": "👋︰logs﹒wlc-leave",
+      "type": 0,
+      "parentId": "1312634250742468609",
+      "position": 0,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309304920314482718",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1309303383814836245",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1309303181867749406",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1309303092952563725",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1309303527817875477",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "0",
+          "deny": "1049600"
+        }
+      ]
+    },
+    {
+      "id": "1309600188775796857",
+      "name": "🪝︰info﹒roles",
+      "type": 0,
+      "parentId": "1309291517931946044",
+      "position": 5,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309307680590139464",
+          "type": 0,
+          "allow": "66561",
+          "deny": "2098966421764944"
+        },
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "1",
+          "deny": "2098966421830480"
+        }
+      ]
+    },
+    {
+      "id": "1310077255191363746",
+      "name": "🔊𐌂 Voices Chats ৲ˎˊ˗",
+      "type": 4,
+      "parentId": null,
+      "position": 14,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309307680590139464",
+          "type": 0,
+          "allow": "551940116033",
+          "deny": "0"
+        },
+        {
+          "id": "1309304756031848570",
+          "type": 0,
+          "allow": "39719857815552",
+          "deny": "0"
+        },
+        {
+          "id": "1309303181867749406",
+          "type": 0,
+          "allow": "281474976710912",
+          "deny": "0"
+        },
+        {
+          "id": "1309303324385738823",
+          "type": 0,
+          "allow": "8192",
+          "deny": "0"
+        },
+        {
+          "id": "1309303527817875477",
+          "type": 0,
+          "allow": "29360128",
+          "deny": "0"
+        },
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "1",
+          "deny": "2098966421831504"
+        }
+      ]
+    },
+    {
+      "id": "1310077596951642204",
+      "name": "🔉︰Voice﹒2",
+      "type": 2,
+      "parentId": "1310077255191363746",
+      "position": 1,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309307680590139464",
+          "type": 0,
+          "allow": "551940116033",
+          "deny": "0"
+        },
+        {
+          "id": "1309304756031848570",
+          "type": 0,
+          "allow": "39719857815552",
+          "deny": "0"
+        },
+        {
+          "id": "1309303181867749406",
+          "type": 0,
+          "allow": "281474976710912",
+          "deny": "0"
+        },
+        {
+          "id": "1309303324385738823",
+          "type": 0,
+          "allow": "8192",
+          "deny": "0"
+        },
+        {
+          "id": "1309303527817875477",
+          "type": 0,
+          "allow": "29360128",
+          "deny": "0"
+        },
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "1",
+          "deny": "2098966421831504"
+        }
+      ]
+    },
+    {
+      "id": "1309403447933665290",
+      "name": "🧪︰mod",
+      "type": 0,
+      "parentId": "1309291336297349282",
+      "position": 4,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "0",
+          "deny": "1024"
+        },
+        {
+          "id": "1309308376424910941",
+          "type": 0,
+          "allow": "0",
+          "deny": "0"
+        },
+        {
+          "id": "1309303383814836245",
+          "type": 0,
+          "allow": "0",
+          "deny": "1024"
+        },
+        {
+          "id": "1309308357215260792",
+          "type": 0,
+          "allow": "1689625102240833",
+          "deny": "70678787272720"
+        },
+        {
+          "id": "1309303527817875477",
+          "type": 0,
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1309303269268521002",
+          "type": 0,
+          "allow": "116800",
+          "deny": "1024"
+        }
+      ]
+    },
+    {
+      "id": "1309338200132681810",
+      "name": "👾︰bots﹒members",
+      "type": 0,
+      "parentId": "1309291300360818730",
+      "position": 1,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309307680590139464",
+          "type": 0,
+          "allow": "2147552320",
+          "deny": "0"
+        },
+        {
+          "id": "1309308376424910941",
+          "type": 0,
+          "allow": "2147871808",
+          "deny": "0"
+        },
+        {
+          "id": "1309308357215260792",
+          "type": 0,
+          "allow": "137439341568",
+          "deny": "0"
+        },
+        {
+          "id": "1309303383814836245",
+          "type": 0,
+          "allow": "8192",
+          "deny": "0"
+        },
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "1",
+          "deny": "2098966421831504"
+        }
+      ]
+    },
+    {
+      "id": "1309405504690196491",
+      "name": "🗝︰evidence﹒sanctions",
+      "type": 0,
+      "parentId": "1309291336297349282",
+      "position": 3,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309303269268521002",
+          "type": 0,
+          "allow": "117824",
+          "deny": "0"
+        },
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "0",
+          "deny": "1024"
+        }
+      ]
+    },
+    {
+      "id": "1309405814255124551",
+      "name": "🧾︰ticket﹒logs",
+      "type": 0,
+      "parentId": "1309291837973991525",
+      "position": 1,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309304920314482718",
+          "type": 0,
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1309303181867749406",
+          "type": 0,
+          "allow": "1126039493725249",
+          "deny": "0"
+        },
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "0",
+          "deny": "1024"
+        }
+      ]
+    },
+    {
+      "id": "1309332719389376573",
+      "name": "🎊︰giveaways",
+      "type": 0,
+      "parentId": "1309291517931946044",
+      "position": 3,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309307680590139464",
+          "type": 0,
+          "allow": "66561",
+          "deny": "2098966421764944"
+        },
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "1",
+          "deny": "2098966421831504"
+        }
+      ]
+    },
+    {
+      "id": "1503917987806314556",
+      "name": "🎮︰games",
+      "type": 0,
+      "parentId": "1309338407700529182",
+      "position": 5,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309307680590139464",
+          "type": 0,
+          "allow": "2147552320",
+          "deny": "0"
+        },
+        {
+          "id": "1309304756031848570",
+          "type": 0,
+          "allow": "137439215616",
+          "deny": "0"
+        },
+        {
+          "id": "1309303181867749406",
+          "type": 0,
+          "allow": "281474976710656",
+          "deny": "0"
+        },
+        {
+          "id": "1309303324385738823",
+          "type": 0,
+          "allow": "8192",
+          "deny": "0"
+        },
+        {
+          "id": "1309308357215260792",
+          "type": 0,
+          "allow": "139586817089",
+          "deny": "0"
+        },
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "1",
+          "deny": "2098966421831504"
+        }
+      ]
+    },
+    {
+      "id": "1309334377393553430",
+      "name": "📸︰media",
+      "type": 0,
+      "parentId": "1309289831376883853",
+      "position": 1,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309307680590139464",
+          "type": 0,
+          "allow": "70368744295488",
+          "deny": "0"
+        },
+        {
+          "id": "1309303383814836245",
+          "type": 0,
+          "allow": "8192",
+          "deny": "0"
+        },
+        {
+          "id": "1309304756031848570",
+          "type": 0,
+          "allow": "137439215616",
+          "deny": "0"
+        },
+        {
+          "id": "1309308357215260792",
+          "type": 0,
+          "allow": "0",
+          "deny": "1024"
+        },
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "68609",
+          "deny": "2098966421762896"
+        }
+      ]
+    },
+    {
+      "id": "1501394918327848980",
+      "name": "📌︰mod﹒logs",
+      "type": 0,
+      "parentId": "1501651563360424057",
+      "position": 2,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309303269268521002",
+          "type": 0,
+          "allow": "115776",
+          "deny": "2048"
+        },
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "0",
+          "deny": "1024"
+        }
+      ]
+    },
+    {
+      "id": "1312231184100757554",
+      "name": "🎞︰youtube",
+      "type": 0,
+      "parentId": "1312138341327835257",
+      "position": 0,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309305616736718848",
+          "type": 0,
+          "allow": "182272",
+          "deny": "0"
+        },
+        {
+          "id": "1309307680590139464",
+          "type": 0,
+          "allow": "66561",
+          "deny": "0"
+        },
+        {
+          "id": "1309309703590903878",
+          "type": 0,
+          "allow": "0",
+          "deny": "0"
+        },
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "1",
+          "deny": "2100065933459280"
+        }
+      ]
+    },
+    {
+      "id": "1309406570861297664",
+      "name": "♦︰guides",
+      "type": 15,
+      "parentId": "1309292270863913012",
+      "position": 1,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309307680590139464",
+          "type": 0,
+          "allow": "66561",
+          "deny": "1760200810231888"
+        },
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "0",
+          "deny": "1024"
+        }
+      ]
+    },
+    {
+      "id": "1309291336297349282",
+      "name": "🍷𐌂 Staff ৲ˎˊ˗",
+      "type": 4,
+      "parentId": null,
+      "position": 3,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "0",
+          "deny": "1024"
+        },
+        {
+          "id": "1309303269268521002",
+          "type": 0,
+          "allow": "117824",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "id": "1309402672243146842",
+      "name": "🔖︰admin﹒guide",
+      "type": 0,
+      "parentId": "1309291837973991525",
+      "position": 0,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309304920314482718",
+          "type": 0,
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1309303181867749406",
+          "type": 0,
+          "allow": "1126039493725249",
+          "deny": "0"
+        },
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "0",
+          "deny": "1024"
+        }
+      ]
+    },
+    {
+      "id": "1309292701996417085",
+      "name": "🧯𐌂 Support ৲ˎˊ˗",
+      "type": 4,
+      "parentId": null,
+      "position": 10,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309307680590139464",
+          "type": 0,
+          "allow": "1025",
+          "deny": "0"
+        },
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "1",
+          "deny": "2098966421831504"
+        }
+      ]
+    },
+    {
+      "id": "1500625150217949254",
+      "name": "🌴︰main﹒chat",
+      "type": 0,
+      "parentId": "1309289831376883853",
+      "position": 0,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309307680590139464",
+          "type": 0,
+          "allow": "70368744295488",
+          "deny": "0"
+        },
+        {
+          "id": "1309308357215260792",
+          "type": 0,
+          "allow": "0",
+          "deny": "1024"
+        },
+        {
+          "id": "1309304756031848570",
+          "type": 0,
+          "allow": "137439215616",
+          "deny": "0"
+        },
+        {
+          "id": "1309303383814836245",
+          "type": 0,
+          "allow": "8192",
+          "deny": "0"
+        },
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "68609",
+          "deny": "2098966421762896"
+        }
+      ]
+    },
+    {
+      "id": "1309939154444091573",
+      "name": "Private",
+      "type": 2,
+      "parentId": "1309291887710044240",
+      "position": 0,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "0",
+          "deny": "1024"
+        },
+        {
+          "id": "1309308376424910941",
+          "type": 0,
+          "allow": "954515745930048",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "id": "1309406465320157224",
+      "name": "📍︰about﹒us",
+      "type": 0,
+      "parentId": "1309291517931946044",
+      "position": 0,
+      "topic": "🇪🇦 ꒱ ¡Conócenos más al equipo de Core y tus dudas estarán resueltas!\n\n🇬🇧 ꒱ Get to know the Core team better and your questions will be answered!",
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309307680590139464",
+          "type": 0,
+          "allow": "66561",
+          "deny": "2098966421764944"
+        },
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "1",
+          "deny": "2098966421830480"
+        }
+      ]
+    },
+    {
+      "id": "1309406698187788330",
+      "name": "✴︰memes",
+      "type": 0,
+      "parentId": "1309338407700529182",
+      "position": 3,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309307680590139464",
+          "type": 0,
+          "allow": "2147552320",
+          "deny": "0"
+        },
+        {
+          "id": "1309308357215260792",
+          "type": 0,
+          "allow": "139586817089",
+          "deny": "0"
+        },
+        {
+          "id": "1309303181867749406",
+          "type": 0,
+          "allow": "281474976710656",
+          "deny": "0"
+        },
+        {
+          "id": "1309303324385738823",
+          "type": 0,
+          "allow": "8192",
+          "deny": "0"
+        },
+        {
+          "id": "1309304756031848570",
+          "type": 0,
+          "allow": "137439215616",
+          "deny": "0"
+        },
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "1",
+          "deny": "2098966421831504"
+        }
+      ]
+    },
+    {
+      "id": "1309406861404934196",
+      "name": "♠︰community﹒support",
+      "type": 0,
+      "parentId": "1309292701996417085",
+      "position": 2,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309307680590139464",
+          "type": 0,
+          "allow": "68609",
+          "deny": "0"
+        },
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "1",
+          "deny": "2098966421831504"
+        }
+      ]
+    },
+    {
+      "id": "1501651563360424057",
+      "name": "🎨𐌂 Core Logs৲ˎˊ˗",
+      "type": 4,
+      "parentId": null,
+      "position": 0,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "0",
+          "deny": "1049600"
+        }
+      ]
+    },
+    {
+      "id": "1309291300360818730",
+      "name": "🤖𐌂 Bots ৲ˎˊ˗",
+      "type": 4,
+      "parentId": null,
+      "position": 16,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309307680590139464",
+          "type": 0,
+          "allow": "2147552320",
+          "deny": "0"
+        },
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "1",
+          "deny": "2098966421831504"
+        },
+        {
+          "id": "1309303383814836245",
+          "type": 0,
+          "allow": "8192",
+          "deny": "0"
+        },
+        {
+          "id": "1309308376424910941",
+          "type": 0,
+          "allow": "2147871808",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "id": "1309349247065522208",
+      "name": "📖︰follow﹒history",
+      "type": 0,
+      "parentId": "1309338407700529182",
+      "position": 2,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309307680590139464",
+          "type": 0,
+          "allow": "277025457216",
+          "deny": "2048"
+        },
+        {
+          "id": "1309308357215260792",
+          "type": 0,
+          "allow": "139586817089",
+          "deny": "0"
+        },
+        {
+          "id": "1309303181867749406",
+          "type": 0,
+          "allow": "281474976710656",
+          "deny": "0"
+        },
+        {
+          "id": "1309303324385738823",
+          "type": 0,
+          "allow": "8192",
+          "deny": "0"
+        },
+        {
+          "id": "1309304756031848570",
+          "type": 0,
+          "allow": "137439215616",
+          "deny": "0"
+        },
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "1",
+          "deny": "2098966421831504"
+        }
+      ]
+    },
+    {
+      "id": "1312880175737733150",
+      "name": "👥︰logs﹒members",
+      "type": 0,
+      "parentId": "1312634250742468609",
+      "position": 9,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309304920314482718",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1309303383814836245",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1309303181867749406",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1309303092952563725",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1309303527817875477",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "0",
+          "deny": "1049600"
+        }
+      ]
+    },
+    {
+      "id": "1501650534782992556",
+      "name": "🎶︰antiraid",
+      "type": 0,
+      "parentId": "1501651563360424057",
+      "position": 0,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "0",
+          "deny": "1024"
+        }
+      ]
+    },
+    {
+      "id": "1310329951148572685",
+      "name": "👾︰bots﹒partners",
+      "type": 0,
+      "parentId": "1310325343856361603",
+      "position": 2,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309307680590139464",
+          "type": 0,
+          "allow": "66560",
+          "deny": "2048"
+        },
+        {
+          "id": "1500384083421823007",
+          "type": 0,
+          "allow": "0",
+          "deny": "1024"
+        },
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "1",
+          "deny": "2098966421831504"
+        }
+      ]
+    },
+    {
+      "id": "1309405314977759272",
+      "name": "🕯︰staff",
+      "type": 0,
+      "parentId": "1309291336297349282",
+      "position": 8,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": [
+        {
+          "id": "1309303269268521002",
+          "type": 0,
+          "allow": "117824",
+          "deny": "0"
+        },
+        {
+          "id": "1309266085589155930",
+          "type": 0,
+          "allow": "0",
+          "deny": "1024"
+        }
+      ]
+    },
+    {
+      "id": "1309985316425433088",
+      "name": "Guía para pedir ayuda /  Guide for Requesting Help",
+      "type": 11,
+      "parentId": "1309340206184402954",
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": []
+    },
+    {
+      "id": "1309989777646288918",
+      "name": "Guía para publicar códigos / Guide for Sharing Code",
+      "type": 11,
+      "parentId": "1309340855773171722",
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": []
+    },
+    {
+      "id": "1311832678777098281",
+      "name": "Guía para publicar tu proyecto / Guide to Publish Your Project",
+      "type": 11,
+      "parentId": "1311083973237280798",
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0,
+      "permissionOverwrites": []
+    }
+  ],
+  "roles": [
+    {
+      "id": "1309307680590139464",
+      "name": "୧︰Members",
+      "color": 6928127,
+      "hoist": true,
+      "position": 28,
+      "permissions": "33554432",
+      "mentionable": false
+    },
+    {
+      "id": "1325011171052621938",
+      "name": "Arcane",
+      "color": 0,
+      "hoist": false,
+      "position": 82,
+      "permissions": "1495521290494",
+      "mentionable": false
+    },
+    {
+      "id": "1503547893737328693",
+      "name": "Dyno",
+      "color": 0,
+      "hoist": false,
+      "position": 80,
+      "permissions": "1513962695871",
+      "mentionable": false
+    },
+    {
+      "id": "1502495707112800368",
+      "name": "Green-Bot",
+      "color": 0,
+      "hoist": false,
+      "position": 74,
+      "permissions": "4331695368",
+      "mentionable": false
+    },
+    {
+      "id": "1309305723586478112",
+      "name": "━━━━━・Colors・━━━━━",
+      "color": 0,
+      "hoist": false,
+      "position": 53,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1309915941710074018",
+      "name": "━━━━━・Language・━━━━━",
+      "color": 0,
+      "hoist": false,
+      "position": 10,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1310036602864533574",
+      "name": "୧︰Intermediate Programmer",
+      "color": 10078548,
+      "hoist": false,
+      "position": 23,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1309319154112794734",
+      "name": "୧︰BDFD",
+      "color": 7913455,
+      "hoist": false,
+      "position": 11,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1309306028420239381",
+      "name": "୧︰Light BLue",
+      "color": 7722730,
+      "hoist": false,
+      "position": 48,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1309303771087638590",
+      "name": "━━━━━・Staff Zone・━━━━━",
+      "color": 0,
+      "hoist": false,
+      "position": 84,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1324564450941997087",
+      "name": "━━━━━・Mates・━━━━━",
+      "color": 0,
+      "hoist": false,
+      "position": 42,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1324565954901970975",
+      "name": "୧︰Mate Advanced",
+      "color": 11518962,
+      "hoist": true,
+      "position": 34,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1309306104290738248",
+      "name": "୧︰Blue",
+      "color": 8753128,
+      "hoist": false,
+      "position": 47,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1310766240628871251",
+      "name": "୧︰Christmas 2024",
+      "color": 15236249,
+      "hoist": false,
+      "position": 26,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1309340921673814060",
+      "name": "NQN",
+      "color": 0,
+      "hoist": false,
+      "position": 68,
+      "permissions": "536895488",
+      "mentionable": false
+    },
+    {
+      "id": "1309305768385843273",
+      "name": "୧︰Orange",
+      "color": 15374952,
+      "hoist": false,
+      "position": 51,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1309304756031848570",
+      "name": "୧︰Boosters",
+      "color": 9006071,
+      "hoist": true,
+      "position": 57,
+      "permissions": "137439215616",
+      "mentionable": false
+    },
+    {
+      "id": "1309303353720967239",
+      "name": "୧︰Trial Support",
+      "color": 11975234,
+      "hoist": true,
+      "position": 61,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1310335921635463258",
+      "name": "Green-bot 2",
+      "color": 0,
+      "hoist": false,
+      "position": 76,
+      "permissions": "1032",
+      "mentionable": false
+    },
+    {
+      "id": "1324566186243133450",
+      "name": "୧︰Mate Begginer",
+      "color": 11518962,
+      "hoist": true,
+      "position": 32,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1324565726232842321",
+      "name": "୧︰Mate Junior",
+      "color": 11518962,
+      "hoist": true,
+      "position": 35,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1309305770185199676",
+      "name": "୧︰Green",
+      "color": 10085246,
+      "hoist": false,
+      "position": 49,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1309305769287483452",
+      "name": "୧︰Yellow",
+      "color": 15917175,
+      "hoist": false,
+      "position": 50,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1309304642601222204",
+      "name": "୧︰Ex Staff",
+      "color": 8760815,
+      "hoist": true,
+      "position": 58,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1309303383814836245",
+      "name": "୧︰Trial Mod",
+      "color": 9160259,
+      "hoist": true,
+      "position": 63,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1309319160349724733",
+      "name": "୧︰HTML and CSS",
+      "color": 15227136,
+      "hoist": false,
+      "position": 13,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1309916045703778414",
+      "name": "୧︰Español",
+      "color": 11518962,
+      "hoist": false,
+      "position": 9,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1324570329485410379",
+      "name": "AmariBot",
+      "color": 0,
+      "hoist": false,
+      "position": 75,
+      "permissions": "286556286032",
+      "mentionable": false
+    },
+    {
+      "id": "1309319160282611862",
+      "name": "୧︰JavaScript",
+      "color": 15335168,
+      "hoist": false,
+      "position": 14,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1503525670511317072",
+      "name": "୧︰No Points VC",
+      "color": 11518962,
+      "hoist": false,
+      "position": 85,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1309571528505036853",
+      "name": "Nekotina",
+      "color": 0,
+      "hoist": false,
+      "position": 83,
+      "permissions": "399431429375",
+      "mentionable": false
+    },
+    {
+      "id": "1314018153382023276",
+      "name": "Byte",
+      "color": 0,
+      "hoist": false,
+      "position": 17,
+      "permissions": "8",
+      "mentionable": false
+    },
+    {
+      "id": "1309266555757924424",
+      "name": "୧︰Founders",
+      "color": 7460949,
+      "hoist": true,
+      "position": 90,
+      "permissions": "8",
+      "mentionable": false
+    },
+    {
+      "id": "1309408676645306433",
+      "name": "UnbelievaBoat",
+      "color": 0,
+      "hoist": false,
+      "position": 73,
+      "permissions": "8",
+      "mentionable": false
+    },
+    {
+      "id": "1324565333213708441",
+      "name": "୧︰Mate 3D",
+      "color": 11518962,
+      "hoist": true,
+      "position": 37,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1309309207014805575",
+      "name": "୧︰Giveaway﹒Ping",
+      "color": 14902976,
+      "hoist": false,
+      "position": 5,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1309309703590903878",
+      "name": "୧︰YouTube﹒Ping",
+      "color": 14298156,
+      "hoist": false,
+      "position": 2,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1316477754144718954",
+      "name": "AlphaKing",
+      "color": 0,
+      "hoist": false,
+      "position": 18,
+      "permissions": "1688989447084097",
+      "mentionable": false
+    },
+    {
+      "id": "1503920161927991367",
+      "name": "new roleafasffasfafasffasaf",
+      "color": 0,
+      "hoist": false,
+      "position": 1,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1309308506503123065",
+      "name": "━━━━━・Pings・━━━━━",
+      "color": 0,
+      "hoist": false,
+      "position": 7,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1309303324385738823",
+      "name": "୧︰Support",
+      "color": 15791224,
+      "hoist": true,
+      "position": 62,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1324564736049676350",
+      "name": "୧︰Mate Original",
+      "color": 11518962,
+      "hoist": true,
+      "position": 40,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1309307466588094538",
+      "name": "୧︰White",
+      "color": 16777215,
+      "hoist": false,
+      "position": 43,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1309408735545921570",
+      "name": "carl-bot",
+      "color": 0,
+      "hoist": false,
+      "position": 78,
+      "permissions": "2088234230",
+      "mentionable": false
+    },
+    {
+      "id": "1310036494324596736",
+      "name": "━━━━━・Economy Roles・━━━━━",
+      "color": 0,
+      "hoist": false,
+      "position": 27,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1311502249821732945",
+      "name": "୧︰Change Nickname",
+      "color": 11518962,
+      "hoist": false,
+      "position": 25,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1309306185375285308",
+      "name": "୧︰Purple",
+      "color": 11768552,
+      "hoist": false,
+      "position": 46,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1309305477774966864",
+      "name": "୧︰Leal Users",
+      "color": 15058020,
+      "hoist": true,
+      "position": 55,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1309319153647222814",
+      "name": "୧︰Python",
+      "color": 1722868,
+      "hoist": false,
+      "position": 12,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1309303092952563725",
+      "name": "୧︰Admin",
+      "color": 16023116,
+      "hoist": true,
+      "position": 66,
+      "permissions": "9914392053142",
+      "mentionable": false
+    },
+    {
+      "id": "1309308376424910941",
+      "name": "୧︰Bots",
+      "color": 8906928,
+      "hoist": true,
+      "position": 19,
+      "permissions": "263176",
+      "mentionable": false
+    },
+    {
+      "id": "1309309543356039178",
+      "name": "୧︰Announces﹒Ping",
+      "color": 14894145,
+      "hoist": false,
+      "position": 4,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1309303181867749406",
+      "name": "୧︰Trial Admin",
+      "color": 15232312,
+      "hoist": true,
+      "position": 65,
+      "permissions": "1100786696326",
+      "mentionable": false
+    },
+    {
+      "id": "1309309621923610634",
+      "name": "୧︰Partners﹒Ping",
+      "color": 4680163,
+      "hoist": false,
+      "position": 3,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1309409149448224782",
+      "name": "Embed Generator",
+      "color": 0,
+      "hoist": false,
+      "position": 72,
+      "permissions": "536871936",
+      "mentionable": false
+    },
+    {
+      "id": "1309679438409236522",
+      "name": "MVK Project",
+      "color": 0,
+      "hoist": false,
+      "position": 93,
+      "permissions": "8",
+      "mentionable": false
+    },
+    {
+      "id": "1309309092669554769",
+      "name": "୧︰Event﹒Ping",
+      "color": 13690217,
+      "hoist": false,
+      "position": 6,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1326409143476551736",
+      "name": "ProBot ✨",
+      "color": 0,
+      "hoist": false,
+      "position": 71,
+      "permissions": "2080374975",
+      "mentionable": false
+    },
+    {
+      "id": "1309319058474401832",
+      "name": "━━━━━・Developer In:・━━━━━",
+      "color": 0,
+      "hoist": false,
+      "position": 15,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1324565216700272681",
+      "name": "୧︰Mate 4D",
+      "color": 11518962,
+      "hoist": true,
+      "position": 38,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1309306337955414136",
+      "name": "୧︰Pink",
+      "color": 15239870,
+      "hoist": false,
+      "position": 45,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1310036616030720030",
+      "name": "୧︰Junior Programmer",
+      "color": 15885669,
+      "hoist": false,
+      "position": 24,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1309303269268521002",
+      "name": "୧︰Staff",
+      "color": 9293287,
+      "hoist": true,
+      "position": 60,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1309305756096532561",
+      "name": "୧︰Red",
+      "color": 15886954,
+      "hoist": false,
+      "position": 52,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1324899949586022547",
+      "name": "୧︰Mate Bought",
+      "color": 11518962,
+      "hoist": true,
+      "position": 31,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1324566093498417244",
+      "name": "୧︰Mate Intermediate",
+      "color": 11518962,
+      "hoist": true,
+      "position": 33,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1309409414821974110",
+      "name": "Koya",
+      "color": 0,
+      "hoist": false,
+      "position": 69,
+      "permissions": "590983204433143",
+      "mentionable": false
+    },
+    {
+      "id": "1500388533607600313",
+      "name": "Apollo Bot",
+      "color": 0,
+      "hoist": false,
+      "position": 81,
+      "permissions": "9089493363792",
+      "mentionable": false
+    },
+    {
+      "id": "1309408616784068689",
+      "name": "DISBOARD.org",
+      "color": 0,
+      "hoist": false,
+      "position": 70,
+      "permissions": "19473",
+      "mentionable": false
+    },
+    {
+      "id": "1309308177531015170",
+      "name": "━━━━━・Bots・━━━━━",
+      "color": 0,
+      "hoist": false,
+      "position": 21,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1309307608376676362",
+      "name": "━━━━━・Users・━━━━━",
+      "color": 0,
+      "hoist": false,
+      "position": 30,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1312881233323364513",
+      "name": "୧︰Muted",
+      "color": 11518962,
+      "hoist": false,
+      "position": 88,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1310769564308602954",
+      "name": "Zeilyn",
+      "color": 0,
+      "hoist": false,
+      "position": 16,
+      "permissions": "274892442688",
+      "mentionable": false
+    },
+    {
+      "id": "1500360366213955588",
+      "name": "Countr",
+      "color": 0,
+      "hoist": false,
+      "position": 79,
+      "permissions": "395942685776",
+      "mentionable": false
+    },
+    {
+      "id": "1309303527817875477",
+      "name": "୧︰Mod",
+      "color": 10539109,
+      "hoist": true,
+      "position": 64,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1503521049864573022",
+      "name": "Cerberus",
+      "color": 0,
+      "hoist": false,
+      "position": 77,
+      "permissions": "268452864",
+      "mentionable": false
+    },
+    {
+      "id": "1324565055152455793",
+      "name": "୧︰Mate Principal",
+      "color": 11518962,
+      "hoist": true,
+      "position": 39,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1309578918944182344",
+      "name": "*",
+      "color": 0,
+      "hoist": false,
+      "position": 94,
+      "permissions": "8",
+      "mentionable": false
+    },
+    {
+      "id": "1309305616736718848",
+      "name": "୧︰Youtubers",
+      "color": 15022136,
+      "hoist": true,
+      "position": 54,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1309305253031575602",
+      "name": "୧︰VIP User",
+      "color": 15035435,
+      "hoist": true,
+      "position": 56,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1500384083421823007",
+      "name": "୧︰No Ping",
+      "color": 10066329,
+      "hoist": false,
+      "position": 29,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1324564619511201833",
+      "name": "୧︰Mate Senior",
+      "color": 11518962,
+      "hoist": true,
+      "position": 41,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1309324579721707572",
+      "name": "୧︰Developed By:",
+      "color": 15236249,
+      "hoist": true,
+      "position": 91,
+      "permissions": "201337912",
+      "mentionable": false
+    },
+    {
+      "id": "1309307233699496078",
+      "name": "୧︰Black",
+      "color": 1,
+      "hoist": false,
+      "position": 44,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1309304556378787870",
+      "name": "━━━━━・Specials・━━━━━",
+      "color": 0,
+      "hoist": false,
+      "position": 59,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1309304920314482718",
+      "name": "୧︰Owners",
+      "color": 5197647,
+      "hoist": true,
+      "position": 67,
+      "permissions": "982584632278991",
+      "mentionable": false
+    },
+    {
+      "id": "1503566562014265446",
+      "name": "୧︰Staff Sanction",
+      "color": 11518962,
+      "hoist": false,
+      "position": 87,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1309308357215260792",
+      "name": "୧︰Members Bots",
+      "color": 7057114,
+      "hoist": true,
+      "position": 20,
+      "permissions": "1799872722098753",
+      "mentionable": false
+    },
+    {
+      "id": "1312881167309082684",
+      "name": "━━━━━・Sanction Roles・━━━━━",
+      "color": 0,
+      "hoist": false,
+      "position": 89,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1310036616634699887",
+      "name": "୧︰Senior Programmer",
+      "color": 4471781,
+      "hoist": false,
+      "position": 22,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1317669332523946007",
+      "name": "Coreᵈᵉᵛ",
+      "color": 0,
+      "hoist": false,
+      "position": 92,
+      "permissions": "2147483647",
+      "mentionable": false
+    },
+    {
+      "id": "1309916128046219284",
+      "name": "୧︰English",
+      "color": 11518962,
+      "hoist": false,
+      "position": 8,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1503525419289280644",
+      "name": "୧︰No Points TXT",
+      "color": 11518962,
+      "hoist": false,
+      "position": 86,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1324565468098465813",
+      "name": "୧︰Mate",
+      "color": 11518962,
+      "hoist": true,
+      "position": 36,
+      "permissions": "0",
+      "mentionable": false
+    }
+  ]
+}

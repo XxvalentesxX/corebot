@@ -1,0 +1,29 @@
+{
+  "enabled": true,
+  "antiflood": {
+    "enabled": true,
+    "repeatedCount": 3,
+    "burstCount": 5,
+    "burstWindow": 3000,
+    "warnLimit": 3,
+    "warnResetMs": 3600000,
+    "muteDurationMs": 1200000
+  },
+  "antispam": {
+    "enabled": true,
+    "allowedDomains": [],
+    "warnLimit": 3,
+    "warnResetMs": 3600000,
+    "muteDurationMs": 1200000
+  },
+  "antiwords": {
+    "enabled": true,
+    "groups": []
+  },
+  "antighost": {
+    "enabled": true,
+    "warnLimit": 3,
+    "warnResetMs": 3600000,
+    "muteDurationMs": 1200000
+  }
+}
