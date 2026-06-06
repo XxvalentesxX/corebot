@@ -1,58 +1,5 @@
 {
   "giveaways": {
-    "1503234714939429004": {
-      "guildId": "1309266085589155930",
-      "channelId": "1309266352913256582",
-      "hostId": "1147967929539895316",
-      "prize": "NITRO BOOST Y PENE x todo sqlito",
-      "endsAt": 1778469580317,
-      "maxWinners": 1,
-      "maxEntries": null,
-      "requirements": {
-        "roles": [
-          "1309303269268521002"
-        ],
-        "thankHost": true,
-        "entryCount": null
-      },
-      "id": "1503234714939429004",
-      "entries": [
-        "1147967929539895316",
-        "1208843412288315474"
-      ],
-      "thankEntries": [
-        "1147967929539895316"
-      ],
-      "status": "ended",
-      "winners": [
-        "1147967929539895316"
-      ],
-      "threadId": "1503234714939429004"
-    },
-    "1503235690425618543": {
-      "guildId": "1309266085589155930",
-      "channelId": "1309266352913256582",
-      "hostId": "1147967929539895316",
-      "prize": "adasdsda",
-      "endsAt": 1778469728905,
-      "maxWinners": 1,
-      "maxEntries": null,
-      "requirements": {
-        "thankHost": true,
-        "roles": [
-          "1309266555757924424"
-        ]
-      },
-      "id": "1503235690425618543",
-      "entries": [
-        "1147967929539895316",
-        "1208843412288315474"
-      ],
-      "thankEntries": [],
-      "status": "ended",
-      "winners": [],
-      "threadId": "1503235690425618543"
-    },
     "1503236566712320102": {
       "guildId": "1309266085589155930",
       "channelId": "1502943779412508873",

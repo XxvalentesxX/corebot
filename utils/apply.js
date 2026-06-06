@@ -6,44 +6,41 @@ const APPLY_PATH = path.join(process.cwd(), "data", "apply.json");
 
 function load() {
   if (!fs.existsSync(APPLY_PATH)) {
-    const defaults = { open: false, questions: [], applicants: {} };
+    const defaults = { open: false, applicants: {} };
     fs.mkdirSync(path.dirname(APPLY_PATH), { recursive: true });
     fs.writeFileSync(APPLY_PATH, JSON.stringify(defaults, null, 2));
     return defaults;
   }
-  return JSON.parse(fs.readFileSync(APPLY_PATH, "utf-8"));
+  try { return JSON.parse(fs.readFileSync(APPLY_PATH, "utf-8")); }
+  catch { return { open: false, applicants: {} }; }
 }
 
 function save(data) {
   fs.writeFileSync(APPLY_PATH, JSON.stringify(data, null, 2));
 }
 
-function getConfig()    { return load(); }
-function isOpen()       { return load().open; }
-function getQuestions() { return load().questions; }
+function isOpen()    { return load().open; }
+function getApplicant(userId) { return load().applicants[userId] ?? null; }
 
-// applicants[userId] = { status: "pending"|"accepted"|"rejected", channelId, formMessageId, appliedAt }
-function getApplicant(userId)    { return load().applicants[userId] ?? null; }
 function setApplicant(userId, data) {
   const db = load();
-  db.applicants[userId] = { ...db.applicants[userId], ...data };
+  db.applicants[userId] = { ...(db.applicants[userId] ?? {}), ...data };
   save(db);
 }
 
-function canApply(userId, guild) {
+function canApply(userId) {
   const a = getApplicant(userId);
   if (!a) return true;
-  // Puede volver a postularse si fue rechazado o aceptado (ya no tiene rol)
-  return a.status === "rejected" || a.status === "accepted";
+  return a.status === "rejected" || a.status === "accepted" || a.status === "eligible";
 }
 
 function openPostulations() {
   const db = load();
   db.open = true;
-  // Resetea rejected y accepted para que puedan volver
   for (const id of Object.keys(db.applicants)) {
-    if (db.applicants[id].status === "rejected" || db.applicants[id].status === "accepted") {
-      db.applicants[id].status = "eligible";
+    if (["rejected", "accepted"].includes(db.applicants[id].status)) {
+      db.applicants[id].status  = "eligible";
+      db.applicants[id].started = false;  // permite volver a iniciar
     }
   }
   save(db);
@@ -55,8 +52,79 @@ function closePostulations() {
   save(db);
 }
 
+/** Shuffle array (Fisher-Yates) */
+function shuffle(arr) {
+  const a = [...arr];
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+
+/**
+ * Dado un array de categorías elegidas y la config,
+ * devuelve { categoryId → preguntasSeleccionadas[] }
+ */
+function selectCategoryQuestions(chosenCategories, config) {
+  const { MAX_CATEGORY_QUESTIONS, MAX_PER_CATEGORY, categories } = config;
+  const result = {};
+
+  const otherCat   = chosenCategories.find((id) => categories.find((c) => c.id === id)?.isOther);
+  const normalCats = chosenCategories.filter((id) => id !== otherCat);
+
+  if (otherCat) {
+    const cat = categories.find((c) => c.id === otherCat);
+    // Usa getCategoryQuestions para respetar overrides del panel
+    const qs = getCategoryQuestions(otherCat);
+    result[otherCat] = qs.slice(0, 1);
+  }
+
+  if (!normalCats.length) return result;
+
+  const perCat = Math.min(
+    MAX_PER_CATEGORY,
+    Math.floor(MAX_CATEGORY_QUESTIONS / normalCats.length)
+  );
+
+  for (const id of normalCats) {
+    const qs = getCategoryQuestions(id);
+    result[id] = shuffle(qs).slice(0, perCat);
+  }
+
+  return result;
+}
+
 module.exports = {
-  load, save, getConfig, isOpen, getQuestions,
-  getApplicant, setApplicant, canApply,
+  isOpen, getApplicant, setApplicant, canApply,
   openPostulations, closePostulations,
+  shuffle, selectCategoryQuestions,
 };
+
+// ─────────────────────────────────────────────────────────────────────────────
+// Preguntas con override desde data/apply_questions.json
+// ─────────────────────────────────────────────────────────────────────────────
+const fsQ  = require("fs");
+const pathQ = require("path");
+const APPLY_CONFIG_PATH = pathQ.join(process.cwd(), "data", "apply_questions.json");
+
+function loadQOverride() {
+  if (!fsQ.existsSync(APPLY_CONFIG_PATH)) return null;
+  try { return JSON.parse(fsQ.readFileSync(APPLY_CONFIG_PATH, "utf-8")); }
+  catch { return null; }
+}
+
+function getGeneralQuestions() {
+  const APPLY_CONFIG = require("../config/apply");
+  const override = loadQOverride();
+  return override?.general ?? APPLY_CONFIG.generalQuestions;
+}
+
+function getCategoryQuestions(catId) {
+  const APPLY_CONFIG = require("../config/apply");
+  const override = loadQOverride();
+  if (override?.categories?.[catId]) return override.categories[catId];
+  return APPLY_CONFIG.categories.find((c) => c.id === catId)?.questions ?? [];
+}
+
+module.exports = Object.assign(module.exports, { getGeneralQuestions, getCategoryQuestions });

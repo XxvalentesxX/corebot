@@ -1,35 +1,87 @@
 {
   "open": true,
-  "questions": [
-    {
-      "id": "5abb8c24",
-      "text": "Te gusta DELWEST?",
-      "timeMs": 5000
-    },
-    {
-      "id": "17a3e256",
-      "text": "Js o PY?",
-      "timeMs": 10000
-    }
-  ],
   "applicants": {
-    "1325614120828928092": {
-      "status": "rejected",
-      "channelId": "1503562554222579742",
-      "appliedAt": 1778547648615,
-      "startMessageId": "1503562556080656455",
+    "1147967929539895316": {
+      "status": "pending",
+      "channelId": "1508278704692920340",
+      "appliedAt": 1779672064435,
+      "startMessageId": "1508278706752323594",
       "started": true,
-      "answers": [
+      "generalAnswers": [
         {
-          "question": "Te gusta DELWEST?",
-          "answer": "si"
+          "question": "¿Cuál es tu nombre o como querés que te llamemos?",
+          "answer": "*Sin respuesta*"
         },
         {
-          "question": "Js o PY?",
+          "question": "¿De dónde sos? (país o ciudad)",
+          "answer": "*Sin respuesta*"
+        },
+        {
+          "question": "¿Cuántos años tenés?",
+          "answer": "skipskip"
+        },
+        {
+          "question": "¿Hace cuánto estás en el servidor y cómo lo conociste?",
+          "answer": "*Sin respuesta*"
+        },
+        {
+          "question": "¿Por qué querés ser parte del staff de CoreCM?",
+          "answer": "*Sin respuesta*"
+        },
+        {
+          "question": "¿Cuántas horas al día podés dedicarle al servidor aproximadamente?",
+          "answer": "*Sin respuesta*"
+        },
+        {
+          "question": "¿Tenés experiencia previa en staff de otros servidores? Si es así, ¿cuál fue tu rol?",
           "answer": "*Sin respuesta*"
         }
       ],
-      "formMessageId": "1503562631527530547"
+      "categoryAnswers": {
+        "js": [
+          {
+            "question": "¿Qué es una Promise y cómo la usarías?",
+            "answer": "*Sin respuesta*"
+          },
+          {
+            "question": "¿Para qué sirve `async/await`?",
+            "answer": "*Sin respuesta*"
+          },
+          {
+            "question": "¿Qué es un módulo en Node.js y cómo lo importás?",
+            "answer": "*Sin respuesta*"
+          },
+          {
+            "question": "¿Qué es destructuring y ponés un ejemplo?",
+            "answer": "*Sin respuesta*"
+          },
+          {
+            "question": "¿Cuál es la diferencia entre `let`, `const` y `var`?",
+            "answer": "*Sin respuesta*"
+          },
+          {
+            "question": "¿Qué hace `Array.reduce()`?",
+            "answer": "*Sin respuesta*"
+          },
+          {
+            "question": "¿Qué es el event loop en Node.js?",
+            "answer": "*Sin respuesta*"
+          },
+          {
+            "question": "¿Qué hace el método `.map()` en un array?",
+            "answer": "*Sin respuesta*"
+          },
+          {
+            "question": "¿Cuál es la diferencia entre `null` y `undefined`?",
+            "answer": "*Sin respuesta*"
+          },
+          {
+            "question": "¿Qué es una closure en JavaScript y para qué sirve?",
+            "answer": "*Sin respuesta*"
+          }
+        ]
+      },
+      "formMessageId": "1508278945638908005"
     }
   }
 }
